@@ -12,6 +12,7 @@ class TestNumpy(unittest.TestCase):
             e2 = np.linalg.eigvals(b0)
             self.assertEqual(np.max(np.abs(e1 - e2)), 0.0, "trial %d failed" % i)
 
-unittest.main()
+if __name__ == "__main__":
+    unittest.main()
 
 
