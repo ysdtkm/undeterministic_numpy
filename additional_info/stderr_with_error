@@ -1,0 +1,13 @@
+F
+======================================================================
+FAIL: test_eigvals (__main__.TestNumpy)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test_static_b.py", line 13, in test_eigvals
+    self.assertEqual(np.max(np.abs(e1 - e2)), 0.0, "trial %d failed" % i)
+AssertionError: 2.6469779601696886e-23 != 0.0 : trial 0 failed
+
+----------------------------------------------------------------------
+Ran 1 test in 0.046s
+
+FAILED (failures=1)

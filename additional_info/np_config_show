@@ -1,0 +1,27 @@
+In [1]: np.__config__.show()
+mkl_info:
+    libraries = ['mkl_rt', 'pthread']
+    library_dirs = ['/homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/lib']
+    define_macros = [('SCIPY_MKL_H', None), ('HAVE_CBLAS', None)]
+    include_dirs = ['/homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/include']
+blas_mkl_info:
+    libraries = ['mkl_rt', 'pthread']
+    library_dirs = ['/homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/lib']
+    define_macros = [('SCIPY_MKL_H', None), ('HAVE_CBLAS', None)]
+    include_dirs = ['/homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/include']
+blas_opt_info:
+    libraries = ['mkl_rt', 'pthread']
+    library_dirs = ['/homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/lib']
+    define_macros = [('SCIPY_MKL_H', None), ('HAVE_CBLAS', None)]
+    include_dirs = ['/homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/include']
+lapack_mkl_info:
+    libraries = ['mkl_rt', 'pthread']
+    library_dirs = ['/homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/lib']
+    define_macros = [('SCIPY_MKL_H', None), ('HAVE_CBLAS', None)]
+    include_dirs = ['/homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/include']
+lapack_opt_info:
+    libraries = ['mkl_rt', 'pthread']
+    library_dirs = ['/homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/lib']
+    define_macros = [('SCIPY_MKL_H', None), ('HAVE_CBLAS', None)]
+    include_dirs = ['/homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/include']
+

@@ -1,0 +1,26 @@
+
+     active environment : None
+       user config file : /homes/MY_USER_NAME/.condarc
+ populated config files : 
+          conda version : 4.5.4
+    conda-build version : 3.4.1
+         python version : 3.6.5.final.0
+       base environment : /homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0  (writable)
+           channel URLs : https://repo.anaconda.com/pkgs/main/linux-64
+                          https://repo.anaconda.com/pkgs/main/noarch
+                          https://repo.anaconda.com/pkgs/free/linux-64
+                          https://repo.anaconda.com/pkgs/free/noarch
+                          https://repo.anaconda.com/pkgs/r/linux-64
+                          https://repo.anaconda.com/pkgs/r/noarch
+                          https://repo.anaconda.com/pkgs/pro/linux-64
+                          https://repo.anaconda.com/pkgs/pro/noarch
+          package cache : /homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/pkgs
+                          /homes/MY_USER_NAME/.conda/pkgs
+       envs directories : /homes/MY_USER_NAME/.pyenv/versions/anaconda3-5.1.0/envs
+                          /homes/MY_USER_NAME/.conda/envs
+               platform : linux-64
+             user-agent : conda/4.5.4 requests/2.18.4 CPython/3.6.5 Linux/2.6.32-696.18.7.el6.x86_64 rhel/6.9 glibc/2.12
+                UID:GID : 297238:100808
+             netrc file : None
+           offline mode : False
+
